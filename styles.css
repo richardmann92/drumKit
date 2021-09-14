@@ -1,0 +1,67 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.rollButton {
+  background-color: #4ECCA3;
+  border: solid;
+  border-color: #393E46;
+  border-radius: 10%;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  color: #393E46;
+  padding: 1% 2% 1% 2%;
+  text-align: center;
+}
+
+.rollContainer {
+  padding: 0 0 4% 0;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+h2 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 3rem;
+  color: #4ECCA3;
+}
+
+button {
+  margin: 0 2% 0 2%;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
